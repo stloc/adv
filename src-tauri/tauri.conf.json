@@ -7,8 +7,8 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "adv",
-    "version": "0.0.1"
+    "productName": "tauri_poc",
+    "version": "1.0.3"
   },
   "tauri": {
     "allowlist": {
@@ -40,7 +40,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "adv",
+        "title": "tauri_poc",
         "width": 800,
         "height": 600
       }
