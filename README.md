@@ -1,7 +1,8 @@
-# Tauri + Svelte + Typescript
+## Tauri, application client via technos web (html,js,css)
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+https://tauri.app/ un code (Javascript et/ou Rust) = multi plateforme Windows/Linux/Mac (msi, exe, deb, dmg, ...)
+Il suffit de "commit" le code et la CI s'occupe de générer les binaires
 
-## Recommended IDE Setup
+![image](https://github.com/stloc/tauri_poc/assets/4832070/14916b0d-8ce4-4bcd-8fc2-088002c6bf7e)
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+![image](https://github.com/stloc/tauri_poc/assets/4832070/59353a6e-7819-41ea-a1cf-bdde097cae36)
